@@ -1,0 +1,15 @@
+[class*="col-"] {
+    background-color: #FFC0CB;
+    
+    border: 2px solid black;
+    line-height: 150px ;
+    text-align: center;
+}
+.nest{
+    padding :8px 2px;
+    border: 1px;;
+}
+.bg{
+    background-color: #F07F80;
+    height: 100%;
+}
